@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+table, tr, td{
+
+    border-collapse: collapse;
+    margin: 230px 395px;
+
+    border: 2px solid black;
+    padding: 10px 100px;
+    text-align: center;
+
+}
+
+#output{
+    padding-left: 700px;
+    position: relative;
+    top: 204px;
+    
+ 
+}
+#num{
+
+    width: 40%;
+    height: 15px;
+}
